@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Teal/blue brand palette - light mode. Chosen to complement the red
+         padlock launcher icon (teal/red are near-complements) rather than
+         clash with it the way the previous unset-default purple did. -->
+    <color name="color_primary">#0E7C86</color>
+    <color name="color_on_primary">#FFFFFF</color>
+    <color name="color_primary_container">#B6EAEA</color>
+    <color name="color_on_primary_container">#002020</color>
+
+    <color name="color_secondary">#3A6EA5</color>
+    <color name="color_on_secondary">#FFFFFF</color>
+
+    <color name="color_surface">#FBFDFC</color>
+    <color name="color_on_surface">#1A1C1C</color>
+    <color name="color_surface_variant">#DBE4E3</color>
+    <color name="color_on_surface_variant">#3F4948</color>
+
+    <color name="color_background">#FBFDFC</color>
+    <color name="color_on_background">#1A1C1C</color>
+    <color name="color_outline">#6F7979</color>
+</resources>

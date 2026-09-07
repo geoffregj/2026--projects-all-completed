@@ -1,0 +1,9 @@
+# Core — required to run ig_manager.py / ig_selenium.py
+selenium
+webdriver-manager
+
+# Optional — only needed if you also run cortana_mint.py
+# (device control, M-PESA parsing, PDF statements, Groq chat)
+requests
+pypdf
+psutil

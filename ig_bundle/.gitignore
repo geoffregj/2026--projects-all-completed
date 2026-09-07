@@ -1,0 +1,35 @@
+# ── secrets — never commit these ──────────────────────────
+self.json
+ig_cookies.json
+id_cache.json
+.ig_manager_gemini.json
+*.env
+
+# ── generated at runtime, personal to whoever runs it ─────
+instagram_results.json
+unfollow_log.json
+follow_log.json
+dm_log.json
+comment_log.json
+growth_log.csv
+cortana_debug/
+
+# ── python ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+*.egg-info/
+
+# ── editor/OS cruft ─────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+.DS_Store

@@ -1,0 +1,6 @@
+debloat_log.txt
+scan_report.json
+__pycache__/
+*.pyc
+.venv/
+venv/

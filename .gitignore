@@ -1,0 +1,3 @@
+# Root-level catch-all (each project folder also has its own .gitignore)
+.DS_Store
+*.log

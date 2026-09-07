@@ -1,0 +1,18 @@
+{
+  "name": "Q",
+  "bio": "short line about who you are / what your account is about",
+  "tone": "casual, friendly, a few emoji, no corporate-speak",
+  "facts": [
+    "based in ...",
+    "runs a ... business / account",
+    "usual reply hours are ..."
+  ],
+  "boilerplate_answers": {
+    "pricing": "how you usually answer price questions",
+    "collabs": "how you usually answer collab/partnership DMs"
+  },
+  "avoid": [
+    "don't promise refunds",
+    "don't share phone number"
+  ]
+}

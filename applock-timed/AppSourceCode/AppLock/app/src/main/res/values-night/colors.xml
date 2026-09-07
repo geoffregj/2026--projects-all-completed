@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Teal/blue brand palette - dark mode. Same hue family as values/colors.xml,
+         but lighter and less saturated - Material's own guidance for dark
+         themes is that primary should recede rather than glow at full
+         saturation against a dark background. This is the piece that was
+         simply never filled in before: values-night/themes.xml pointed at
+         the exact same colorPrimary as light mode. -->
+    <color name="color_primary">#5BD1D1</color>
+    <color name="color_on_primary">#00373A</color>
+    <color name="color_primary_container">#01494E</color>
+    <color name="color_on_primary_container">#A0EEEE</color>
+
+    <color name="color_secondary">#A2C9FF</color>
+    <color name="color_on_secondary">#093060</color>
+
+    <color name="color_surface">#1A1C1C</color>
+    <color name="color_on_surface">#E1E3E3</color>
+    <color name="color_surface_variant">#3F4948</color>
+    <color name="color_on_surface_variant">#BEC9C8</color>
+
+    <color name="color_background">#101414</color>
+    <color name="color_on_background">#E1E3E3</color>
+    <color name="color_outline">#899393</color>
+</resources>
